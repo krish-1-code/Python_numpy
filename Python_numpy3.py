@@ -58,3 +58,4 @@ print(array3[0,1,2]) #This is called multi dimensional indexing It's faster than
 word = array3[1,1,1] + array3[1,2,0] + array3[2,0,1]
 
 print(word)
+print(array2.shape)

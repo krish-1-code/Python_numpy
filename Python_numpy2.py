@@ -7,3 +7,5 @@ import numpy as np
 list_num = np.array([1,2,3,4,5])
 list_num *= 2
 print(list_num)
+list_num *= 5
+print(list_num)
